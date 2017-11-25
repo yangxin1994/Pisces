@@ -1,0 +1,6 @@
+model_checkpoint_path: "pisces-model_36.ckpt"
+all_model_checkpoint_paths: "pisces-model_28.ckpt"
+all_model_checkpoint_paths: "pisces-model_30.ckpt"
+all_model_checkpoint_paths: "pisces-model_32.ckpt"
+all_model_checkpoint_paths: "pisces-model_34.ckpt"
+all_model_checkpoint_paths: "pisces-model_36.ckpt"
